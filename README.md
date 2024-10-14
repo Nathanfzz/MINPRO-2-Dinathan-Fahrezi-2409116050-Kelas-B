@@ -1,3 +1,5 @@
+Flowchart:![MINPRO 2 ](https://github.com/user-attachments/assets/d8e99db4-6e95-45ee-b182-2e3c8ab83321)
+
 # MINPRO-2-Dinathan-Fahrezi-2409116050-Kelas-B
 Import dan Data Awal:
 ![Screenshot 2024-10-14 235426](https://github.com/user-attachments/assets/4633db51-2a04-4e66-a98f-2698189f925e)
